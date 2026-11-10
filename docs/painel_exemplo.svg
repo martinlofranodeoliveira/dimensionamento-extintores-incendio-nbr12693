@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="extintorGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ef4444" />
+      <stop offset="50%" stop-color="#b91c1c" />
+      <stop offset="100%" stop-color="#7f1d1d" />
+    </linearGradient>
+    <linearGradient id="co2Grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#64748b" />
+      <stop offset="50%" stop-color="#334155" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4" />
+    </filter>
+  </defs>
+  <rect width="1440" height="900" fill="url(#bgGrad)" />
+  <rect x="30" y="25" width="1380" height="75" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1.5" />
+  <text x="60" y="58" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="bold">LOFRANO TECNOLOGIA — ENGENHARIA DE SEGURANÇA CONTRA INCÊNDIO</text>
+  <text x="60" y="82" fill="#38bdf8" font-family="system-ui, -apple-system, sans-serif" font-size="14">SISTEMAS DE PROTEÇÃO POR EXTINTORES DE INCÊNDIO — ABNT NBR 12693:2021</text>
+  <text x="1380" y="70" text-anchor="end" fill="#94a3b8" font-family="monospace" font-size="13">Edificação: Edifício Comercial Rocha Corporate | Comercial e Serviços</text>
+  <g transform="translate(30, 120)">
+    <rect width="360" height="745" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="20" y="35" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">DADOS GERAIS DO SISTEMA</text>
+    <line x1="20" y1="48" x2="340" y2="48" stroke="#334155" stroke-width="1" />
+    <text x="20" y="80" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Área Total Protegida</text>
+    <text x="20" y="100" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">1298.0 m²</text>
+    <text x="20" y="130" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Quantidade de Pavimentos</text>
+    <text x="20" y="150" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">4 pavimento(s)</text>
+    <text x="20" y="180" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Total de Extintores</text>
+    <text x="20" y="200" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">11 unidade(s)</text>
+    <text x="20" y="230" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Norma Técnica</text>
+    <text x="20" y="250" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">ABNT NBR 12693:2021</text>
+    <text x="20" y="280" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Sinalização de Emergência</text>
+    <text x="20" y="300" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">ABNT NBR 16820</text>
+    <text x="20" y="330" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Precisão de Cálculo</text>
+    <text x="20" y="350" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">Racional Exata (Zero Float)</text>
+    <rect x="20" y="400" width="320" height="325" rx="6" fill="#0f172a" stroke="#475569" stroke-width="1" />
+    <text x="35" y="425" fill="#facc15" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">SINALIZAÇÃO DE PISO REGULAMENTAR</text>
+    <g transform="translate(100, 450)">
+      <rect width="160" height="160" fill="#facc15" stroke="#ca8a04" stroke-width="2" />
+      <rect x="25" y="25" width="110" height="110" fill="#dc2626" stroke="#991b1b" stroke-width="1.5" />
+      <text x="80" y="85" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">ÁREA LIVRE</text>
+    </g>
+    <text x="35" y="640" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">• Dimensão Total: 1,00 m x 1,00 m</text>
+    <text x="35" y="660" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">• Borda Amarela: 0,15 m perimetral</text>
+    <text x="35" y="680" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">• Campo Vermelho Central: 0,70 m x 0,70 m</text>
+    <text x="35" y="705" fill="#ef4444" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">PROIBIDO QUALQUER OBSTÁCULO</text>
+  </g>
+  <g transform="translate(410, 120)">
+    <rect width="600" height="745" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="20" y="35" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">CORTE ESQUEMÁTICO — DISTRIBUIÇÃO E COTAS REGULAMENTARES</text>
+    <line x1="20" y1="48" x2="580" y2="48" stroke="#334155" stroke-width="1" />
+    <rect x="40" y="70" width="520" height="125" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <rect x="40" y="190" width="520" height="6" fill="#475569" />
+    <text x="55" y="95" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Térreo - Hall e Acesso</text>
+    <text x="55" y="112" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Risco BAIXO | Área: 450m² | Dist. Máx: 20m</text>
+    <rect x="190" y="140" width="20" height="42" rx="4" fill="url(#extintorGrad)" />
+    <rect x="196" y="132" width="8" height="8" fill="#e2e8f0" />
+    <rect x="188" y="105" width="24" height="18" fill="#ef4444" stroke="#ffffff" stroke-width="1" />
+    <text x="200" y="118" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">ABC</text>
+    <rect x="350" y="140" width="20" height="42" rx="4" fill="url(#extintorGrad)" />
+    <rect x="356" y="132" width="8" height="8" fill="#e2e8f0" />
+    <rect x="348" y="105" width="24" height="18" fill="#ef4444" stroke="#ffffff" stroke-width="1" />
+    <text x="360" y="118" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">ABC</text>
+    <rect x="472" y="135" width="16" height="47" rx="3" fill="url(#co2Grad)" />
+    <rect x="476" y="128" width="8" height="7" fill="#cbd5e1" />
+    <rect x="468" y="105" width="24" height="18" fill="#0f172a" stroke="#ffffff" stroke-width="1" />
+    <text x="480" y="118" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">CO2</text>
+    <rect x="40" y="210" width="520" height="125" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <rect x="40" y="330" width="520" height="6" fill="#475569" />
+    <text x="55" y="235" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">1º Pavimento - Escritórios Administrativos</text>
+    <text x="55" y="252" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Risco MEDIO | Área: 400m² | Dist. Máx: 15m</text>
+    <rect x="190" y="280" width="20" height="42" rx="4" fill="url(#extintorGrad)" />
+    <rect x="196" y="272" width="8" height="8" fill="#e2e8f0" />
+    <rect x="188" y="245" width="24" height="18" fill="#ef4444" stroke="#ffffff" stroke-width="1" />
+    <text x="200" y="258" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">ABC</text>
+    <rect x="350" y="280" width="20" height="42" rx="4" fill="url(#extintorGrad)" />
+    <rect x="356" y="272" width="8" height="8" fill="#e2e8f0" />
+    <rect x="348" y="245" width="24" height="18" fill="#ef4444" stroke="#ffffff" stroke-width="1" />
+    <text x="360" y="258" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">ABC</text>
+    <rect x="40" y="350" width="520" height="125" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <rect x="40" y="470" width="520" height="6" fill="#475569" />
+    <text x="55" y="375" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">2º Pavimento - Coworking e Salas de Reunião</text>
+    <text x="55" y="392" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Risco MEDIO | Área: 400m² | Dist. Máx: 15m</text>
+    <rect x="190" y="420" width="20" height="42" rx="4" fill="url(#extintorGrad)" />
+    <rect x="196" y="412" width="8" height="8" fill="#e2e8f0" />
+    <rect x="188" y="385" width="24" height="18" fill="#ef4444" stroke="#ffffff" stroke-width="1" />
+    <text x="200" y="398" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">ABC</text>
+    <rect x="350" y="420" width="20" height="42" rx="4" fill="url(#extintorGrad)" />
+    <rect x="356" y="412" width="8" height="8" fill="#e2e8f0" />
+    <rect x="348" y="385" width="24" height="18" fill="#ef4444" stroke="#ffffff" stroke-width="1" />
+    <text x="360" y="398" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">ABC</text>
+    <rect x="40" y="490" width="520" height="125" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <rect x="40" y="610" width="520" height="6" fill="#475569" />
+    <text x="55" y="515" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Mezanino Técnico Cobertura</text>
+    <text x="55" y="532" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Risco BAIXO | Área: 48m² | Dist. Máx: 20m</text>
+    <rect x="190" y="560" width="20" height="42" rx="4" fill="url(#extintorGrad)" />
+    <rect x="196" y="552" width="8" height="8" fill="#e2e8f0" />
+    <rect x="188" y="525" width="24" height="18" fill="#ef4444" stroke="#ffffff" stroke-width="1" />
+    <text x="200" y="538" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">ABC</text>
+    <rect x="350" y="560" width="20" height="42" rx="4" fill="url(#extintorGrad)" />
+    <rect x="356" y="552" width="8" height="8" fill="#e2e8f0" />
+    <rect x="348" y="525" width="24" height="18" fill="#ef4444" stroke="#ffffff" stroke-width="1" />
+    <text x="360" y="538" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">ABC</text>
+    <g transform="translate(60, 0)">
+      <line x1="70" y1="190" x2="70" y2="140" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3,3" />
+      <text x="65" y="165" text-anchor="end" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">h ≤ 1,60 m</text>
+      <line x1="100" y1="190" x2="100" y2="110" stroke="#4ade80" stroke-width="1.5" stroke-dasharray="3,3" />
+      <text x="95" y="130" text-anchor="end" fill="#4ade80" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">h = 1,80 m</text>
+    </g>
+    <rect x="40" y="650" width="520" height="75" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="55" y="675" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">DIRETRIZES DE INSTALAÇÃO (ITEM 5.4)</text>
+    <text x="55" y="695" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">• Alça de empunhadura do suporte de parede fixada a no máximo 1,60 m do piso.</text>
+    <text x="55" y="712" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">• Placa fotoluminescente (NBR 16820) sobreposta verticalmente a 1,80 m do piso.</text>
+  </g>
+  <g transform="translate(1030, 120)">
+    <rect width="380" height="745" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="20" y="35" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">TABELA DE DISTRIBUIÇÃO</text>
+    <line x1="20" y1="48" x2="360" y2="48" stroke="#334155" stroke-width="1" />
+    <rect x="20" y="75" width="340" height="95" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="35" y="97" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Térreo - Hall e Acesso</text>
+    <text x="35" y="115" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Grau: BAIXO (250 MJ/m²)</text>
+    <text x="35" y="133" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Capacidade: 2-A : 20-B:C</text>
+    <text x="35" y="153" fill="#4ade80" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Total: 4 extintor(es) (112.5 m²/unid.)</text>
+    <rect x="20" y="180" width="340" height="95" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="35" y="202" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">1º Pavimento - Escritórios Administrativos</text>
+    <text x="35" y="220" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Grau: MEDIO (350 MJ/m²)</text>
+    <text x="35" y="238" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Capacidade: 2-A : 40-B:C</text>
+    <text x="35" y="258" fill="#4ade80" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Total: 3 extintor(es) (133.3 m²/unid.)</text>
+    <rect x="20" y="285" width="340" height="95" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="35" y="307" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">2º Pavimento - Coworking e Salas de Reunião</text>
+    <text x="35" y="325" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Grau: MEDIO (350 MJ/m²)</text>
+    <text x="35" y="343" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Capacidade: 2-A : 40-B:C</text>
+    <text x="35" y="363" fill="#4ade80" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Total: 3 extintor(es) (133.3 m²/unid.)</text>
+    <rect x="20" y="390" width="340" height="95" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="35" y="412" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Mezanino Técnico Cobertura</text>
+    <text x="35" y="430" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Grau: BAIXO (200 MJ/m²)</text>
+    <text x="35" y="448" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Capacidade: 2-A : 20-B:C</text>
+    <text x="35" y="468" fill="#4ade80" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Total: 1 extintor(es) (48.0 m²/unid.)</text>
+    <rect x="20" y="650" width="340" height="75" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="35" y="675" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">STATUS DE CONFORMIDADE</text>
+    <text x="35" y="698" fill="#4ade80" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">SISTEMA CONFORME ABNT NBR 12693</text>
+    <text x="35" y="715" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Verificado via Lofrano Tecnologia</text>
+  </g>
+</svg>

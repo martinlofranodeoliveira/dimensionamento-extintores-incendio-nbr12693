@@ -1,0 +1,39 @@
+{
+  "nome_edificacao": "Centro de Distribuição Logística Brasil",
+  "ocupacao": "Depósito e Armazenagem de Cargas",
+  "pavimentos": [
+    {
+      "nome_pavimento": "Galpão Principal de Estocagem",
+      "area_m2": 2400,
+      "carga_incendio_mj_m2": 1500,
+      "maior_distancia_caminhamento_m": "9.5",
+      "riscos_especificos": [
+        {
+          "identificador": "Cabine Primária 13.8 kV",
+          "tipo": "cabine_subestacao",
+          "distancia_ao_extintor_m": "4.0",
+          "agente_sugerido": "dioxido_carbono_co2"
+        },
+        {
+          "identificador": "Grupo Gerador Diesel 500 kVA",
+          "tipo": "gerador_energia",
+          "distancia_ao_extintor_m": "3.5",
+          "agente_sugerido": "po_quimico_abc"
+        },
+        {
+          "identificador": "Depósito de Óleos e Lubrificantes",
+          "tipo": "deposito_inflamaveis",
+          "distancia_ao_extintor_m": "4.5",
+          "agente_sugerido": "espuma_mecanica"
+        }
+      ]
+    },
+    {
+      "nome_pavimento": "Bloco de Escritórios e Vestiários",
+      "area_m2": 350,
+      "carga_incendio_mj_m2": 280,
+      "maior_distancia_caminhamento_m": "12.0",
+      "riscos_especificos": []
+    }
+  ]
+}

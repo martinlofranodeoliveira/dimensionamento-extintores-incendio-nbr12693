@@ -1,0 +1,47 @@
+{
+  "nome_edificacao": "Edifício Comercial Rocha Corporate",
+  "ocupacao": "Comercial e Serviços",
+  "pavimentos": [
+    {
+      "nome_pavimento": "Térreo - Hall e Acesso",
+      "area_m2": 450,
+      "carga_incendio_mj_m2": 250,
+      "maior_distancia_caminhamento_m": "18.0",
+      "riscos_especificos": [
+        {
+          "identificador": "QGBT - Entrada Geral de Energia",
+          "tipo": "quadro_eletrico_geral",
+          "distancia_ao_extintor_m": "3.5",
+          "agente_sugerido": "dioxido_carbono_co2"
+        },
+        {
+          "identificador": "Casa de Bombas de Incêndio",
+          "tipo": "casa_bombas",
+          "distancia_ao_extintor_m": "2.0",
+          "agente_sugerido": "po_quimico_abc"
+        }
+      ]
+    },
+    {
+      "nome_pavimento": "1º Pavimento - Escritórios Administrativos",
+      "area_m2": 400,
+      "carga_incendio_mj_m2": 350,
+      "maior_distancia_caminhamento_m": "14.0",
+      "riscos_especificos": []
+    },
+    {
+      "nome_pavimento": "2º Pavimento - Coworking e Salas de Reunião",
+      "area_m2": 400,
+      "carga_incendio_mj_m2": 350,
+      "maior_distancia_caminhamento_m": "14.0",
+      "riscos_especificos": []
+    },
+    {
+      "nome_pavimento": "Mezanino Técnico Cobertura",
+      "area_m2": "48.0",
+      "carga_incendio_mj_m2": 200,
+      "maior_distancia_caminhamento_m": "8.0",
+      "riscos_especificos": []
+    }
+  ]
+}

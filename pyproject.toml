@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dimensionamento-extintores-incendio-nbr12693"
+version = "1.0.0"
+description = "Dimensionamento de Sistemas de Proteção por Extintores de Incêndio (ABNT NBR 12693:2021) - Lofrano Tecnologia"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [
+    { name = "Lofrano Tecnologia", email = "contato@lofranotecnologia.com.br" }
+]
+keywords = [
+    "engenharia-de-incendio",
+    "abnt-nbr-12693",
+    "extintores-de-incendio",
+    "seguranca-contra-incendio",
+    "capacidade-extintora",
+    "prevencao-panico",
+    "zero-float",
+    "lofrano-tecnologia"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: Portuguese (Brazilian)",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering",
+    "Typing :: Typed",
+]
+dependencies = []
+
+[project.scripts]
+extintores-nbr12693 = "extintores_nbr12693.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+extintores_nbr12693 = ["py.typed"]

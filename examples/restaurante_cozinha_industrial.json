@@ -1,0 +1,33 @@
+{
+  "nome_edificacao": "Restaurante e Gastronomia Bella Vista",
+  "ocupacao": "Alimentação e Serviços",
+  "pavimentos": [
+    {
+      "nome_pavimento": "Salão de Refeições e Atendimento",
+      "area_m2": 420,
+      "carga_incendio_mj_m2": 320,
+      "maior_distancia_caminhamento_m": "13.5",
+      "riscos_especificos": []
+    },
+    {
+      "nome_pavimento": "Cozinha Industrial e Preparo",
+      "area_m2": 180,
+      "carga_incendio_mj_m2": 550,
+      "maior_distancia_caminhamento_m": "11.0",
+      "riscos_especificos": [
+        {
+          "identificador": "Bateria de Fritadeiras Industriais",
+          "tipo": "cozinha_profissional",
+          "distancia_ao_extintor_m": "6.0",
+          "agente_sugerido": "classe_k_acetato_potassio"
+        },
+        {
+          "identificador": "Central de Cilindros P-45 GLP",
+          "tipo": "central_glp",
+          "distancia_ao_extintor_m": "4.0",
+          "agente_sugerido": "po_quimico_bc"
+        }
+      ]
+    }
+  ]
+}
